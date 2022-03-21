@@ -1,0 +1,3 @@
+I learned today about working in a shell via a CLI interface to be able to make changes to a file system like adding new files or directories and removing them as well.
+Another thing I learned today is how to use git bash to create a local repo or pull a repo from a remote site like GitHub to make changes that could then be push make to the remote repo as to have different versions being kept up to date for upkeep sake.
+However, I have been used to working with GitHub's desktop app, which has a GUI interface, so getting used to typing out everything I want done will take me a while to get used to, but will be worth it in the end!
